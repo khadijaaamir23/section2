@@ -1,0 +1,57 @@
+.para1{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0px 10px;
+    background-color: red;
+    color: white;
+}
+.para2{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0 10px;
+    background-color: green;
+    color: white;
+}
+.para3{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0 10px;
+    background-color: blue;
+    color: white;
+    
+
+}
+.para4{
+    border: 1px solid #000;
+    width: 200px;
+    display: inline-block;
+    padding: 0 10px;
+    background-color: violet;
+    color: white;
+}
+.red{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: end;
+}
+.green{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: end;
+}
+.blue{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: end;
+}
+.violet{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: end;
+}
+.pic{
+    width: 220px;
+}
